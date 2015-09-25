@@ -1,3 +1,4 @@
+```
 <?php
 
 namespace ResultSystems\PdoCrud;
@@ -207,3 +208,4 @@ class Crud
         }
     }
 }
+```
